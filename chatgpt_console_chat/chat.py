@@ -1,6 +1,6 @@
 import os
 import openai
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 
 load_dotenv(dotenv_path=os.path.join('API_key', 'API_KEY.env'))
 
